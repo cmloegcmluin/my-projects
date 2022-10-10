@@ -1,0 +1,60 @@
+[submodule "Geometrhythm/geometrhythm"]
+	path = Geometrhythm/geometrhythm
+	url = git@github.com:Geometrhythm/geometrhythm
+[submodule "Geometrhythm/geometrhythm-legacy"]
+	path = Geometrhythm/geometrhythm-legacy
+	url = git@github.com:Geometrhythm/geometrhythm-legacy
+[submodule "Houndstooth/houndstoothcraft"]
+	path = Houndstooth/houndstoothcraft
+	url = git@github.com:Houndstooth/houndstoothcraft
+[submodule "Houndstooth/houndstoothtopia"]
+	path = Houndstooth/houndstoothtopia
+	url = git@github.com:Houndstooth/houndstoothtopia
+[submodule "Houndstooth/standalone-serrated-houndstooth"]
+	path = Houndstooth/standalone-serrated-houndstooth
+	url = git@github.com:Houndstooth/standalone-serrated-houndstooth
+[submodule "RTT-etc/RTT"]
+	path = RTT-etc/RTT
+	url = git@github.com:cmloegcmluin/RTT
+[submodule "RTT-etc/otherRTT"]
+	path = RTT-etc/otherRTT
+	url = git@github.com:cmloegcmluin/otherRTT
+[submodule "YahooTuningGroupsUltimateBackup/YahooTuningGroupsUltimateBackup"]
+	path = YahooTuningGroupsUltimateBackup/YahooTuningGroupsUltimateBackup
+	url = git@github.com:YahooTuningGroupsUltimateBackup/YahooTuningGroupsUltimateBackup
+[submodule "YahooTuningGroupsUltimateBackup/YahooTuningGroupsUltimateBackup.github.io"]
+	path = YahooTuningGroupsUltimateBackup/YahooTuningGroupsUltimateBackup.github.io
+	url = git@github.com:YahooTuningGroupsUltimateBackup/YahooTuningGroupsUltimateBackup.github.io
+[submodule "isocycler"]
+	path = isocycler
+	url = git@github.com:isocycler/isocyler
+[submodule "musical-patterns"]
+	path = musical-patterns
+	url = git@github.com:MusicalPatterns/main
+[submodule "perfit"]
+	path = perfit
+	url = git@github.com:cmloegmluin/perfit
+[submodule "personal-site"]
+	path = personal-site
+	url = git@github.com:cmloegmluin/personal-site
+[submodule "rainbowbbles"]
+	path = rainbowbbles
+	url = git@github.com:cmloegmluin/rainbowbbles
+[submodule "sagittal"]
+	path = sagittal
+	url = git@github.com:sagittal/sagittal-main
+[submodule "scalar-set-theory"]
+	path = scalar-set-theory
+	url = git@github.com:cmloegcmluin/scalar-set-theory
+[submodule "shape-up"]
+	path = shape-up
+	url = git@github.com:cmloegcmluin/shape-up
+[submodule "staff-code"]
+	path = staff-code
+	url = git@github.com:staff-code/staff-code
+[submodule "vrb"]
+	path = vrb
+	url = git@github.com:cmloegcmluin/vrb
+[submodule "uncannly"]
+	path = uncannly
+	url = git@github.com:Uncannly/uncannly
