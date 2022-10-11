@@ -27,19 +27,19 @@
 	url = git@github.com:YahooTuningGroupsUltimateBackup/YahooTuningGroupsUltimateBackup.github.io
 [submodule "isocycler"]
 	path = isocycler
-	url = git@github.com:isocycler/isocyler
+	url = git@github.com:isocycler/isocycler
 [submodule "musical-patterns"]
 	path = musical-patterns
 	url = git@github.com:MusicalPatterns/main
 [submodule "perfit"]
 	path = perfit
-	url = git@github.com:cmloegmluin/perfit
+	url = git@github.com:cmloegcmluin/perfit
 [submodule "personal-site"]
 	path = personal-site
-	url = git@github.com:cmloegmluin/personal-site
+	url = git@github.com:cmloegcmluin/personal-site
 [submodule "rainbowbbles"]
 	path = rainbowbbles
-	url = git@github.com:cmloegmluin/rainbowbbles
+	url = git@github.com:cmloegcmluin/rainbowbbles
 [submodule "sagittal"]
 	path = sagittal
 	url = git@github.com:sagittal/sagittal-main
